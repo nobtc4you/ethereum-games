@@ -6,6 +6,7 @@ You can discuss this project on [Ledger](https://joinledger.com), a cryptocurren
 To contribute a game please fork this repository and submit a pull request. Descriptions are taken directly from project pages. Thanks! Ξ
 
 Table Of Contents
+- [Cryptocup](#cryptocup)
 - [Crypto Kitties](#crypto-kitties)
 - [Ether Rockets](#ether-rockets)
 - [Crypto Pets](#crypto-pets)
@@ -20,6 +21,11 @@ Table Of Contents
 - [Ether Rock](#ether-rock)
 - [Krypto War](#krypto-war)
 - [Ethergarden](#ethergarden)
+
+## Cryptocup
+"Cryptocup, is the first world cup betting system powered by the blockchain. Useres predict the result of the 64 matches of the 2018 Rusia World Cup by buying a token using the ethereum erc-721 token contract. The token with best predictions wins the prize pool, also you can sell your token at the market."
+
+[Link](https://cryptocup.io)
 
 ## Crypto Kitties
 "In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes."
